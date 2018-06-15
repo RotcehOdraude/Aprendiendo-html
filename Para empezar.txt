@@ -3,3 +3,8 @@ etiqueta:(puede representar boton,campo de texto,un texto)
 Contenido:(Texto o cualquier otra cosa)
 atributos: (variacion)
   <h1>Titulo de nuestro documento</h1>
+
+¿Como se debe escribir un documento HTML?
+consta de una cabecera (head), cuerpo (body:lo que este contenido aqui si se ve)
+algunas etiquetas no se cierran de la mismoa forma que h1, como es el caso de br
+etiquetas: html,head,title,body,!--
