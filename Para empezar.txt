@@ -8,3 +8,15 @@ atributos: (variacion)
 consta de una cabecera (head), cuerpo (body:lo que este contenido aqui si se ve)
 algunas etiquetas no se cierran de la mismoa forma que h1, como es el caso de br
 etiquetas: html,head,title,body,!--
+-------------------------------------------------
+etiquetas para maquetar para construir un sitio
+etiquetas para texto:
+<p>: para parrafos
+<br/>:para agregar espaciados
+<b>,<strong>,'<span>':texto en negritas,strong es una etiqueta mas facil de encontrar por el navegador,la etiqueta span se utiliza en css para darle el estilo bold
+<i>:letras en italica
+<blockquote>:agregar citas
+<cite>:para agregar autor de la cita
+<hr/>:es una linea separdora
+etiquetas:p,br,b,i,blockquote,hr
+--------------------------------------------------
