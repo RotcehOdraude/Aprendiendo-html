@@ -31,3 +31,12 @@ entlaces a documentos css
 <a href"CORREO_DESTINO" tilte="ALGO">:Activar el correo y enviarlo, no es la forma mas recomendada
 etiquetas:a,link.script
 --------------------------------------------------------
+"Listas ordenadas y desordenadas"
+Listas:Ponerle un contenido para mostrarlo mas facilmente o utilizarlo con css
+--lista desordenadas--
+<ul>: Para crear lista desordenada
+<li>:Elemnto li,contiene nuetro item,
+--Listas ordenadas--
+<ol>: Para crear lista ordenada
+etiquetas:ul,li,ol
+--------------------------------------------------------
