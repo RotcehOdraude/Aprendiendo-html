@@ -40,3 +40,7 @@ Listas:Ponerle un contenido para mostrarlo mas facilmente o utilizarlo con css
 <ol>: Para crear lista ordenada
 etiquetas:ul,li,ol
 --------------------------------------------------------
+"Imagenes en html"
+<img src="" alt="" title="" width="" height=""/>: atributo src de forma obligatoria, atributo alt sirve para poner un texto en caso de que no se encuentre la imagen en la ruta especificada, el atributo width establece el ancho de la imagen, el atributo height determina el alto de la imagen (Puede escribirse solo un atributo tanto width como height y otro se tomara como predeterminado),el atributo title da una pequeña descripcion de lo que es la imagen
+etiquetas:img
+-------------------------------------------------------
