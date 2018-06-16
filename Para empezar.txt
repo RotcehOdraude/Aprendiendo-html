@@ -1,4 +1,4 @@
-<etiqueta atributos="valor">Contenido</etiqueta>
+﻿<etiqueta atributos="valor">Contenido</etiqueta>
 etiqueta:(puede representar boton,campo de texto,un texto)
 Contenido:(Texto o cualquier otra cosa)
 atributos: (variacion)
@@ -20,3 +20,14 @@ etiquetas para texto:
 <hr/>:es una linea separdora
 etiquetas:p,br,b,i,blockquote,hr
 --------------------------------------------------
+"Enlaces"
+<a href="UNA_URL">: Sirve para colocar un enlace en la pagina web,href:rutas absolutas(link externo) y rutas relativas(dentro de la ruta raiz)
+---enlaces a documentos javascrip---
+entlaces a documentos css
+<link rel="stylesheet" href="ALGO.css">:etiqueta para agregar css
+<script src="ALGO.js">:Enlasa archivos javascript
+---enlace a fav icon---
+<link rel="shortcut icon" type...>:para agregar el icon de la pestaña
+<a href"CORREO_DESTINO" tilte="ALGO">:Activar el correo y enviarlo, no es la forma mas recomendada
+etiquetas:a,link.script
+--------------------------------------------------------
