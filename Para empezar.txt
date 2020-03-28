@@ -1,4 +1,4 @@
-﻿<etiqueta atributos="valor">Contenido</etiqueta>
+﻿
 etiqueta:(puede representar boton,campo de texto,un texto)
 Contenido:(Texto o cualquier otra cosa)
 atributos: (variacion)
